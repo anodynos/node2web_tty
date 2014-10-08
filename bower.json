@@ -1,6 +1,6 @@
 {
  "name": "tty",
- "version": "3.24.10",
+ "version": "3.46.1",
  "main": "tty.min.js",
  "description": "'tty' nodejs core module browserify-ied with `--standalone tty`. Should support all module systems (commonjs, AMD & `window.tty`) - check browserify docs.",
  "keywords": [
